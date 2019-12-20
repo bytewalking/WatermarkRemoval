@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92bf2b7d-97a6-4d62-9ee9-3b9008828bad" name="Default Changelist" comment="" />
+    <list default="true" id="92bf2b7d-97a6-4d62-9ee9-3b9008828bad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1VCCrnRMV2BXAwjoYNAMHn0mLqT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -110,45 +121,65 @@
       <option name="presentableId" value="Default" />
       <updated>1576747890528</updated>
       <workItem from="1576747891658" duration="1597000" />
-      <workItem from="1576750129960" duration="3244000" />
+      <workItem from="1576750129960" duration="3838000" />
+      <workItem from="1576840513729" duration="2358000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1576755264705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576755264705</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1576755347061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576755347061</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="284" y="35" key="CommitChangelistDialog2" timestamp="1576755264542">
+    <state x="284" y="35" key="CommitChangelistDialog2" timestamp="1576755346950">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="284" y="35" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1576755264542" />
-    <state width="1044" height="262" key="GridCell.Tab.0.bottom" timestamp="1576755189389">
+    <state x="284" y="35" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1576755346950" />
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1576843485029">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1044" height="262" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1576755189389" />
-    <state width="1044" height="262" key="GridCell.Tab.0.center" timestamp="1576755189388">
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1576843485029" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1576843485027">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1044" height="262" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1576755189388" />
-    <state width="1044" height="262" key="GridCell.Tab.0.left" timestamp="1576755189387">
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1576843485027" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1576843485026">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1044" height="262" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1576755189387" />
-    <state width="1044" height="262" key="GridCell.Tab.0.right" timestamp="1576755189388">
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1576843485026" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1576843485028">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1044" height="262" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1576755189388" />
-    <state x="337" y="174" key="Vcs.Push.Dialog.v2" timestamp="1576755273026">
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1576843485028" />
+    <state x="337" y="174" key="Vcs.Push.Dialog.v2" timestamp="1576755363285">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="337" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1576755273026" />
-    <state x="574" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1576750130370">
+    <state x="337" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1576755363285" />
+    <state x="574" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1576840514290">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="574" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1576750130370" />
+    <state x="574" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1576840514290" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WatermarkRemoval$main.coverage" NAME="main Coverage Results" MODIFIED="1576748873260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/WatermarkRemoval$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1576754540118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WatermarkRemoval$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1576843427942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
