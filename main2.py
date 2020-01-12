@@ -57,7 +57,6 @@ def remove_water_mark(image_name, image_root, save_root, ):
     filename = os.path.join(save_root, image_name)
     cv2.imwrite(filename, img)
 
-
 # 遍历文件
 file_root = ""
 img_files = []
